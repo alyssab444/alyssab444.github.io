@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A little rocky...."
-date:       2019-10-23 00:05:12 +0000
+date:       2019-10-22 20:05:13 -0400
 permalink:  a_little_rocky
 ---
 
